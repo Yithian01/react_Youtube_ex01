@@ -25,9 +25,6 @@ export const getChannelInfo = createAsyncThunk(
     }
 )
 
-
-
-
 const videoSlice =  createSlice({
     name:'video',
     initialState:{
